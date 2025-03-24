@@ -20,6 +20,6 @@
 
 ## ⚙️ Установка и настройка
 
-1. Клонируйте репозиторий:
+Клонируйте репозиторий:
 ```bash
 git clone https://github.com/fooggreitan/Telegram_bot.git
